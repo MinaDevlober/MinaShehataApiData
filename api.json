@@ -1,0 +1,20 @@
+{
+  "devices": [
+    {
+      "name": "iPhone 15 Pro",
+      "price": 1200
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1100
+    },
+    {
+      "name": "Xiaomi Redmi Note 13",
+      "price": 300
+    },
+    {
+      "name": "Huawei Mate 60",
+      "price": 900
+    }
+  ]
+}
